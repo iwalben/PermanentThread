@@ -1,2 +1,2 @@
 # PermanentThread
-实现常驻线程的Demon
+实现常驻线程的Demo
